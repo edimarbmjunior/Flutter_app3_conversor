@@ -1,6 +1,6 @@
-# app3conversor
+# App conversor
 
-A new Flutter application.
+A new Flutter application. Another step in learning.
 
 ## Getting Started
 
